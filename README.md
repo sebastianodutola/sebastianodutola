@@ -5,4 +5,4 @@ Pure mathematician with an interest in computing - (on my way) -> ML/Data Scienc
 - Working on: Merton's optimal consumption model 💹, Running dashboard 🏃.
 - Interests: Robotics, climate tech, foundational AI, Protein synthesis.
 
-Currently learning... Always learning 📚
+Currently learning... Always learning... 📚
